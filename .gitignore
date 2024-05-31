@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+.plotting_test
+yolov8n.pt 
+
 __pycache__/
 *.py[cod]
 *$py.class
