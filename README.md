@@ -34,7 +34,7 @@ The hardware setup consists of the following components:
 | Camera          | Webcam or Raspberry Pi Camera Module |
 
 
-![Hardware Setup](./images/img_001.jpg) | ![Camera Module](../AutoParkMonitor/images/img_002.jpg)
+![Hardware Setup](./images/img_001.jpg) | ![Camera Module](./images/img_002.jpg)
 
 
 ## Usage
